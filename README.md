@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ivelasquez-rl
-- 👀 I’m interested in programming in general..
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on smart opensource project
-- 📫 How to reach me: ivelasquez@rocketlawyer.com.br
+- 👀 I’m interested in general software engineering
+- 🌱 I’m currently learning Japanese.
+- 💞️ I’m looking to collaborate on vertical farming opensource projects
+- 📫 How to reach me: vlaskz@icloud.com
 - ⚡ Fun fact: I was a session musician.
 
 <!---
