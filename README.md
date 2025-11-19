@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ivelasquez-rl
-- 👀 I’m interested in general software engineering
-- 🌱 I’m currently learning Japanese.
-- 💞️ I’m looking to collaborate on vertical farming opensource projects
+- 👋 Hi, I’m Isaias Velasquez
+- 👀 I’m interested in software, music, farming
+- 🌱 I’m currently learning about chicken farms.
+- 💞️ I’m looking to create the best company possible here
 - 📫 How to reach me: vlaskz@icloud.com
-- ⚡ Fun fact: I was a session musician.
+- ⚡ Fun fact: I never quitted playing game dev story.
 
 <!---
 ivelasquez-rl/ivelasquez-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
